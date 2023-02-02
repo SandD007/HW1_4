@@ -1,0 +1,15 @@
+D:\visualstudio\HW1_4\HW1_4\bin\Debug\net7.0\HW1_4.exe
+D:\visualstudio\HW1_4\HW1_4\bin\Debug\net7.0\HW1_4.deps.json
+D:\visualstudio\HW1_4\HW1_4\bin\Debug\net7.0\HW1_4.runtimeconfig.json
+D:\visualstudio\HW1_4\HW1_4\bin\Debug\net7.0\HW1_4.dll
+D:\visualstudio\HW1_4\HW1_4\bin\Debug\net7.0\HW1_4.pdb
+D:\visualstudio\HW1_4\HW1_4\obj\Debug\net7.0\HW1_4.csproj.AssemblyReference.cache
+D:\visualstudio\HW1_4\HW1_4\obj\Debug\net7.0\HW1_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudio\HW1_4\HW1_4\obj\Debug\net7.0\HW1_4.AssemblyInfoInputs.cache
+D:\visualstudio\HW1_4\HW1_4\obj\Debug\net7.0\HW1_4.AssemblyInfo.cs
+D:\visualstudio\HW1_4\HW1_4\obj\Debug\net7.0\HW1_4.csproj.CoreCompileInputs.cache
+D:\visualstudio\HW1_4\HW1_4\obj\Debug\net7.0\HW1_4.dll
+D:\visualstudio\HW1_4\HW1_4\obj\Debug\net7.0\refint\HW1_4.dll
+D:\visualstudio\HW1_4\HW1_4\obj\Debug\net7.0\HW1_4.pdb
+D:\visualstudio\HW1_4\HW1_4\obj\Debug\net7.0\HW1_4.genruntimeconfig.cache
+D:\visualstudio\HW1_4\HW1_4\obj\Debug\net7.0\ref\HW1_4.dll
